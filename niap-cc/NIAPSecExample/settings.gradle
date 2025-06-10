@@ -1,3 +1,0 @@
-include ':NIAPSEC'
-include ':app'
-rootProject.name = "NIAPSecSampleApp"
